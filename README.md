@@ -11,3 +11,5 @@ Repositório com lista de podcasts relacionados principalmente com TI e outros a
 | Dev & Community Cast | http://devcommunitycast.com.br/|
 | Lambda 3|http://www.lambda3.com.br/|
 |Database Cast|http://imasters.com.br/perfil/databasecast/|
+|Hipsters|http://hipsters.tech/|
+|Jovem Nerde - NerdTech |https://jovemnerd.com.br/playlist/nerdtech/|
