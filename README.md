@@ -2,7 +2,7 @@
 Repositório com lista de podcasts relacionados principalmente com TI e outros assuntos
 
 ## TI
-| Tables        | Are           |
+| Podcast        | Site           |
 | ------------- |:-------------:|
 | Grook Podcast      | www.grokpodcast.com |
 | DNE - Dev na Estrada      | http://devnaestrada.com.br/ |
