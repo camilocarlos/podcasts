@@ -13,3 +13,4 @@ Repositório com lista de podcasts relacionados principalmente com TI e outros a
 |Database Cast|http://imasters.com.br/perfil/databasecast/|
 |Hipsters|http://hipsters.tech/|
 |Jovem Nerd - NerdTech |https://jovemnerd.com.br/playlist/nerdtech/|
+|Hack'n Cast|http://hackncast.org/|
