@@ -12,4 +12,4 @@ Repositório com lista de podcasts relacionados principalmente com TI e outros a
 | Lambda 3|http://www.lambda3.com.br/|
 |Database Cast|http://imasters.com.br/perfil/databasecast/|
 |Hipsters|http://hipsters.tech/|
-|Jovem Nerde - NerdTech |https://jovemnerd.com.br/playlist/nerdtech/|
+|Jovem Nerd - NerdTech |https://jovemnerd.com.br/playlist/nerdtech/|
